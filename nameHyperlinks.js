@@ -1,4 +1,5 @@
 /*vv SCRIPT FOR ADDING AUTOMATIC HYPERLINKS vv*/	
+console.log('Auto Hyperlinks Script Loaded');
 const targetElement = document.querySelector('.full-page'); 
 const originalText = targetElement.innerHTML;
 const keywordsObj = {
